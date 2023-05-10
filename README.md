@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sharathspawar
-- 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning React.js/ JAVA
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Solving Complex unsolved problem in the World.
+- 🌱 I’m currently working on a Blockchain related project.
+- 💞️ I’m looking to collaborate on anything that can challenge my brain.
 - 📫 How to reach me IG-@sharathspawar
 
 <!---
